@@ -1,0 +1,12 @@
+{
+    "nom":"",
+    "contact":{},
+    "experience":[
+        {"libelle":"","date":"","entreprise":""}
+    ],
+    "formation":[
+        {"title":"","université":"","datedebut":"","datefin":""}
+    ],
+    "competences":[],
+    "interets":[]
+}

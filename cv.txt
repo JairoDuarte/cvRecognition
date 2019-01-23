@@ -1,0 +1,60 @@
+ALFREDO JAIRO DUARTE
+
+
+Je cherche une opportunité de mettre en pratique mon savoir-faire et de grandir jour après jour dans ce domaine qui me passionne, au sein d’une équipe dynamique. Je suis curieux, rigoureux, motivé et méthodique.
+
+Software Engineer
+
+Formation
+
+2017 - 2019
+
+2016 - 2017
+
+2014 - 2016
+
+Master Big data et Cloud Computing - Faculté des Sciences Ibn Tofaïl (Kènitra)
+
+Licence Professionnelle en Génie Logiciel - Université Hassan II de Casablanca
+
+Diplôme Universitaire de Technicien Informatique - Université Sidi Mohamed Ben Abdellah Fès
+
+Expérience
+
+CGI Maroc PFE - Ingénieur Support Applicative (6 Mois)
+
+Maintenance et support applicatif des systèmes mainframe (cobol, pacbase) pour les sociétés de commerce (Carrefour, Walmart). Développment et conception des systèmes en .NET et JEE. Outils: Java EE, git, BitBucket, UML, Scrum et outres
+
+Centre Hospitalier Universitaire Fès PFE - Développeur web (3 Mois - Mars 2016)
+
+Conception et développement d’une application web pour le département d’informatique, le logiciel sert à automatiser le processus de demande et résolution d’intervention applicative.
+
+Outils: ASPNET MVC, TFS , EntityFramework, ASPNET Identiy, Git et outres
+
+Projets universitaire
+
+Sujet: Analyse de données en temps réel (Assurance de la qualité des données, ETL, conservation et visualisation des données) Outils: Python, ML, Apache Hadoop(Hor tonWorks), Apache Spark, MongoDB, Google Cloud Platform, Github, Metabase
+
+Sujet: Mise en place d’un système décisionnel - Integration et l’analyse de données touchant aux étudiants, permettant d’amener des analyses complexes évaluant, la performance des activités promotionnelles, ainsi que la performance des programmes d’étude.
+
+Outils: Pentaho Schema Workbench, Talend Studio, MySQL, Pentaho JPivot
+
+Sujet: Création d’un pipeline Big Data d’analyse de données, pour la détection des individus qui ont l’intention de quiter une organisation de tétécommunication Outils: MongoDB, Python, ML, Apache (Cloudera),Metabase
+
+Sujet: Réalisation d’un chatbot pour aider améliorer la relation clientèle d’une organisation de télécommunication. Outils: Python,Flask, Chatterbot , NLP, Cloudinary, CloudConver t , Mongodb, Google Cloud Speech,github, Heroku, Docker
+
+Compétences
+
+Système d’explotation: Linux, MacOSX, Windows Machine Learning : Naîve Bayes, K Means, Regression, Decision Trees Big Data: Apache Hadoop, Apache Spark Business Intelligence: Talend Open Studio, SAP Business Object, PowerBI, Metabase, Pentaho Integration Langage de programmation: Python(Numpy,Pandas, Scikit-learn, OpenCV), Java, JavaScript, SQL/PLSQL, C#, PROLOG, Web Full-Stack: Nodejs, Django, ASPNET, JEE, Vuejs Base de données SQL/NoSQL: Oracle11g, MySQL, PostgresSQL, MongoDB, Ravendb, Microsoft SQL Server Cloud: Google Cloud Platform, Microsoft Azure Gestion de projet: Scrum, Kanban DevOps: Docker, git, github, BitBucket, Jenkins, Microsoft Team Services Outils: Trello, Slack, SSH, Bash, , Microsoft Ofﬁce Modélisation: UML, Merise
+
+Langues
+
+Français: courant
+
+| Anglais: notion |
+
+Portugais: maternelle
+
+Centre d'intérêt
+
+Voyage | Lecture | Jeux vidéo | Internet | Cinéma | Athlétisme | Music

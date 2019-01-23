@@ -1,0 +1,1310 @@
+{
+    "train": [
+        {
+            "content": "ALFREDO JAIRO DUARTE Casablanca-Marrocos  212622333820  duartealfredoj@gmail.com linkedin.com/in/alfredo-jairo-duarte   jairoduarte.github.io Master Degree Student in Big Data and Cloud Computing Resumo Formation 2017 - 2019 Master en Big data et Cloud Computing Faculte des Sciences Ibn Tofaïl Kenitra Licence Professionnelle en Genie Logiciel et Administration Avancee de Systemes et Reseaux Informatiques Universite Hassan II de Casablanca EST Diplôme Universitaire de Technicien Informatique specialite Administration de base de donnees Universite Sidi Mohamed Ben Abdellah  EST  - Fes 2010 - 2012 Baccalaureat Technique en Informatique de gestion Instituto Medio Industrial de Luanda Angola EXPÉRIENCE 3/2017 - 7/2017 Stage de fin d etudes Licence CGI Morocco Sidi Marouf Casablanca Maintenance et support applicatif des systemes mainframe cobol pacbase pour les societes de commerce en detail Carrefour Walmart. Developpement et conception de systemes en .NET et JEE comme un systeme de gestion de plans de travail.  Stage de fin detudes DUT C.H.U Hassan II Narjiss Fes Stage d initiation CompetenceCenter Centre ville Fes Developpement dun site web vitrine Technologies utilisees Joomla PHP  MySQL COMPÉTENCES Systeme dexplotation Notions avancees en Programmation Developpement Web Full-Stack Maitrise d administration de bases des donnees relationnelle BI  Big Data Machine Leaning  Deep Learning Linux MacOSX Windows Java Python JavaScript C PL/SQL SQL Prolog Nodejs ASPNET  Django Flask Vuejs JEE Oracle 11g Microsoft SQL Server PostgresSQL MySQL Microsof Data Integration Talend Studio Pentaho Integration SAP Business Object Apache Hadoop Apache Spark NoSQL Pandas TensorFlow Scikitlearn OpenCV NLP Outils de Travail  Gestion de Projet  Cloud Computing   Git Docker SSH Bash Scrum R Studio GitHub Microsoft Team Foundation BitBucket Kanban Microsoft Azure Kubernete Microsoft Office Slack Trello XP Google Cloud Computing FRANÇAIS ENGLISH PORTUGUESE",
+            "annotation": [
+                {
+                    "label": [
+                        "NOM"
+                    ],
+                    "points": [
+                        {
+                            "start": 1,
+                            "end": 20,
+                            "text": "ALFREDO JAIRO DUARTE"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "ADRESSE"
+                    ],
+                    "points": [
+                        {
+                            "start": 22,
+                            "end": 41,
+                            "text": "Casablanca-Marrocos"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "TELEPHONE"
+                    ],
+                    "points": [
+                        {
+                            "start": 43,
+                            "end": 55,
+                            "text": "212622333820"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "EMAIL"
+                    ],
+                    "points": [
+                        {
+                            "start": 57,
+                            "end": 81,
+                            "text": "duartealfredoj@gmail.com"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "RSOCIAL"
+                    ],
+                    "points": [
+                        {
+                            "start": 82,
+                            "end": 118,
+                            "text": "linkedin.com/in/alfredo-jairo-duarte"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "RSOCIAL"
+                    ],
+                    "points": [
+                        {
+                            "start": 119,
+                            "end": 142,
+                            "text": "jairoduarte.github.io"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "FORMATION"
+                    ],
+                    "points": [
+                        {
+                            "start": 120,
+                            "end": 196,
+                            "text": "Master Degree Student in Big Data and Cloud Computing"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "FORMATION"
+                    ],
+                    "points": [
+                        {
+                            "start": 226,
+                            "end": 303,
+                            "text": "Master en Big data et Cloud Computing Faculte des Sciences Ibn Tofaïl Kenitra"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "FORMATION"
+                    ],
+                    "points": [
+                        {
+                            "start": 227,
+                            "end": 443,
+                            "text": "Licence Professionnelle en Genie Logiciel et Administration Avancee de Systemes et Reseaux Informatiques Universite Hassan II de Casablanca"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "NOM"
+                    ],
+                    "points": [
+                        {
+                            "start": 448,
+                            "end": 590,
+                            "text": "Diplôme Universitaire de Technicien Informatique specialite Administration de base de donnees Universite Sidi Mohamed Ben Abdellah  EST  - Fes"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "FORMATION"
+                    ],
+                    "points": [
+                        {
+                            "start": 603,
+                            "end": 696,
+                            "text": "Baccalaureat Technique en Informatique de gestion Instituto Medio Industrial de Luanda Angola"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "EXPERIENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 724,
+                            "end": 777,
+                            "text": "Stage de fin d etudes Licence CGI Morocco Sidi Marouf Casablanca"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "EXPERIENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1024,
+                            "end": 1076,
+                            "text": "Stage de fin detudes DUT C.H.U Hassan II Narjiss Fes"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "EXPERIENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1077,
+                            "end": 1112,
+                            "text": "Stage d initiation CompetenceCenter"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1239,
+                            "end": 1272,
+                            "text": "Notions avancees en Programmation"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1273,
+                            "end": 1301,
+                            "text": "Developpement Web Full-Stack"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "NOM"
+                    ],
+                    "points": [
+                        {
+                            "start": 1302,
+                            "end": 1362,
+                            "text": "Maitrise d administration de bases des donnees relationnelle"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1363,
+                            "end": 1365,
+                            "text": "BI"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1367,
+                            "end": 1375,
+                            "text": "Big Data"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1376,
+                            "end": 1391,
+                            "text": "Machine Leaning"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1393,
+                            "end": 1405,
+                            "text": "Deep Learning"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1407,
+                            "end": 1412,
+                            "text": "Linux"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1413,
+                            "end": 1419,
+                            "text": "MacOSX"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1420,
+                            "end": 1427,
+                            "text": "Windows"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1428,
+                            "end": 1432,
+                            "text": "Java"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1433,
+                            "end": 1439,
+                            "text": "Python"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1440,
+                            "end": 1450,
+                            "text": "JavaScript"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1453,
+                            "end": 1459,
+                            "text": "PL/SQL"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1471,
+                            "end": 1477,
+                            "text": "Nodejs"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1478,
+                            "end": 1484,
+                            "text": "ASPNET"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1486,
+                            "end": 1492,
+                            "text": "Django"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1493,
+                            "end": 1498,
+                            "text": "Flask"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1499,
+                            "end": 1504,
+                            "text": "Vuejs"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1505,
+                            "end": 1508,
+                            "text": "JEE"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1541,
+                            "end": 1552,
+                            "text": "PostgresSQL"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1553,
+                            "end": 1558,
+                            "text": "MySQL"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1585,
+                            "end": 1598,
+                            "text": "Talend Studio"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1599,
+                            "end": 1618,
+                            "text": "Pentaho Integration"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1639,
+                            "end": 1652,
+                            "text": "Apache Hadoop"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1653,
+                            "end": 1665,
+                            "text": "Apache Spark"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1666,
+                            "end": 1671,
+                            "text": "NoSQL"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1672,
+                            "end": 1678,
+                            "text": "Pandas"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1679,
+                            "end": 1689,
+                            "text": "TensorFlow"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1690,
+                            "end": 1701,
+                            "text": "Scikitlearn"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1709,
+                            "end": 1712,
+                            "text": "NLP"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1769,
+                            "end": 1772,
+                            "text": "Git"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1789,
+                            "end": 1794,
+                            "text": "Scrum"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1847,
+                            "end": 1853,
+                            "text": "Kanban"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1880,
+                            "end": 1896,
+                            "text": "Microsoft Office"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "LANGUE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1936,
+                            "end": 1944,
+                            "text": "FRANÇAIS"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "LANGUE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1945,
+                            "end": 1952,
+                            "text": "ENGLISH"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "LANGUE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1953,
+                            "end": 1963,
+                            "text": "PORTUGUESE"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1903,
+                            "end": 1909,
+                            "text": "Trello"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1732,
+                            "end": 1749,
+                            "text": "Gestion de Projet"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": "ALFREDO JAIRO DUARTE Casablanca-Marrocos  212622333820  duartealfredoj@gmail.com linkedin.com/in/alfredo-jairo-duarte   jairoduarte.github.io Master Degree Student in Big Data and Cloud Computing Resumo Formation 2017 - 2019 Master en Big data et Cloud Computing Faculte des Sciences Ibn Tofaïl Kenitra Licence Professionnelle en Genie Logiciel et Administration Avancee de Systemes et Reseaux Informatiques Universite Hassan II de Casablanca EST Diplôme Universitaire de Technicien Informatique specialite Administration de base de donnees Universite Sidi Mohamed Ben Abdellah  EST  - Fes 2010 - 2012 Baccalaureat Technique en Informatique de gestion Instituto Medio Industrial de Luanda Angola EXPÉRIENCE 3/2017 - 7/2017 Stage de fin d etudes Licence CGI Morocco Sidi Marouf Casablanca Maintenance et support applicatif des systemes mainframe cobol pacbase pour les societes de commerce en detail Carrefour Walmart. Developpement et conception de systemes en .NET et JEE comme un systeme de gestion de plans de travail.  Stage de fin detudes DUT C.H.U Hassan II Narjiss Fes Stage d initiation CompetenceCenter Centre ville Fes Developpement dun site web vitrine Technologies utilisees Joomla PHP  MySQL COMPÉTENCES Systeme dexplotation Notions avancees en Programmation Developpement Web Full-Stack Maitrise d administration de bases des donnees relationnelle BI  Big Data Machine Leaning  Deep Learning Linux MacOSX Windows Java Python JavaScript C PL/SQL SQL Prolog Nodejs ASPNET  Django Flask Vuejs JEE Oracle 11g Microsoft SQL Server PostgresSQL MySQL Microsof Data Integration Talend Studio Pentaho Integration SAP Business Object Apache Hadoop Apache Spark NoSQL Pandas TensorFlow Scikitlearn OpenCV NLP Outils de Travail  Gestion de Projet  Cloud Computing   Git Docker SSH Bash Scrum R Studio GitHub Microsoft Team Foundation BitBucket Kanban Microsoft Azure Kubernete Microsoft Office Slack Trello XP Google Cloud Computing FRANÇAIS ENGLISH PORTUGUESE",
+            "annotation": [
+                {
+                    "label": [
+                        "NOM"
+                    ],
+                    "points": [
+                        {
+                            "start": 1,
+                            "end": 21,
+                            "text": "ALFREDO JAIRO DUARTE"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "ADRESSE"
+                    ],
+                    "points": [
+                        {
+                            "start": 22,
+                            "end": 41,
+                            "text": "Casablanca-Marrocos"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "TELEPHONE"
+                    ],
+                    "points": [
+                        {
+                            "start": 43,
+                            "end": 55,
+                            "text": "212622333820"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "EMAIL"
+                    ],
+                    "points": [
+                        {
+                            "start": 57,
+                            "end": 81,
+                            "text": "duartealfredoj@gmail.com"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "RSOCIAL"
+                    ],
+                    "points": [
+                        {
+                            "start": 82,
+                            "end": 118,
+                            "text": "linkedin.com/in/alfredo-jairo-duarte"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "RSOCIAL"
+                    ],
+                    "points": [
+                        {
+                            "start": 119,
+                            "end": 142,
+                            "text": "jairoduarte.github.io"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "FORMATION"
+                    ],
+                    "points": [
+                        {
+                            "start": 120,
+                            "end": 196,
+                            "text": "Master Degree Student in Big Data and Cloud Computing"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "FORMATION"
+                    ],
+                    "points": [
+                        {
+                            "start": 226,
+                            "end": 303,
+                            "text": "Master en Big data et Cloud Computing Faculte des Sciences Ibn Tofaïl Kenitra"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "FORMATION"
+                    ],
+                    "points": [
+                        {
+                            "start": 227,
+                            "end": 443,
+                            "text": "Licence Professionnelle en Genie Logiciel et Administration Avancee de Systemes et Reseaux Informatiques Universite Hassan II de Casablanca"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "NOM"
+                    ],
+                    "points": [
+                        {
+                            "start": 448,
+                            "end": 590,
+                            "text": "Diplôme Universitaire de Technicien Informatique specialite Administration de base de donnees Universite Sidi Mohamed Ben Abdellah  EST  - Fes"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "FORMATION"
+                    ],
+                    "points": [
+                        {
+                            "start": 603,
+                            "end": 696,
+                            "text": "Baccalaureat Technique en Informatique de gestion Instituto Medio Industrial de Luanda Angola"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "EXPERIENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 724,
+                            "end": 777,
+                            "text": "Stage de fin d etudes Licence CGI Morocco Sidi Marouf Casablanca"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "EXPERIENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1024,
+                            "end": 1076,
+                            "text": "Stage de fin detudes DUT C.H.U Hassan II Narjiss Fes"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "EXPERIENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1077,
+                            "end": 1112,
+                            "text": "Stage d initiation CompetenceCenter"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1239,
+                            "end": 1272,
+                            "text": "Notions avancees en Programmation"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1273,
+                            "end": 1301,
+                            "text": "Developpement Web Full-Stack"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "NOM"
+                    ],
+                    "points": [
+                        {
+                            "start": 1302,
+                            "end": 1362,
+                            "text": "Maitrise d administration de bases des donnees relationnelle"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1363,
+                            "end": 1365,
+                            "text": "BI"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1367,
+                            "end": 1375,
+                            "text": "Big Data"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1376,
+                            "end": 1391,
+                            "text": "Machine Leaning"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1393,
+                            "end": 1405,
+                            "text": "Deep Learning"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1407,
+                            "end": 1412,
+                            "text": "Linux"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1413,
+                            "end": 1419,
+                            "text": "MacOSX"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1420,
+                            "end": 1427,
+                            "text": "Windows"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1428,
+                            "end": 1432,
+                            "text": "Java"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1433,
+                            "end": 1439,
+                            "text": "Python"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1440,
+                            "end": 1450,
+                            "text": "JavaScript"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1453,
+                            "end": 1459,
+                            "text": "PL/SQL"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1471,
+                            "end": 1477,
+                            "text": "Nodejs"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1478,
+                            "end": 1484,
+                            "text": "ASPNET"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1486,
+                            "end": 1492,
+                            "text": "Django"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1493,
+                            "end": 1498,
+                            "text": "Flask"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1499,
+                            "end": 1504,
+                            "text": "Vuejs"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1505,
+                            "end": 1508,
+                            "text": "JEE"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1541,
+                            "end": 1552,
+                            "text": "PostgresSQL"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1553,
+                            "end": 1558,
+                            "text": "MySQL"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1585,
+                            "end": 1598,
+                            "text": "Talend Studio"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1599,
+                            "end": 1618,
+                            "text": "Pentaho Integration"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1639,
+                            "end": 1652,
+                            "text": "Apache Hadoop"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1653,
+                            "end": 1665,
+                            "text": "Apache Spark"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1666,
+                            "end": 1671,
+                            "text": "NoSQL"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1672,
+                            "end": 1678,
+                            "text": "Pandas"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1679,
+                            "end": 1689,
+                            "text": "TensorFlow"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1690,
+                            "end": 1701,
+                            "text": "Scikitlearn"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1709,
+                            "end": 1712,
+                            "text": "NLP"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1769,
+                            "end": 1772,
+                            "text": "Git"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1789,
+                            "end": 1794,
+                            "text": "Scrum"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1847,
+                            "end": 1853,
+                            "text": "Kanban"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1880,
+                            "end": 1896,
+                            "text": "Microsoft Office"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "LANGUE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1936,
+                            "end": 1944,
+                            "text": "FRANÇAIS"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "LANGUE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1945,
+                            "end": 1952,
+                            "text": "ENGLISH"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "LANGUE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1953,
+                            "end": 1963,
+                            "text": "PORTUGUESE"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1903,
+                            "end": 1909,
+                            "text": "Trello"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        "COMPETENCE"
+                    ],
+                    "points": [
+                        {
+                            "start": 1732,
+                            "end": 1749,
+                            "text": "Gestion de Projet"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
