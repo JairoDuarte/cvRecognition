@@ -3,6 +3,6 @@ venv/
 *.t.*
 *.log
 *.pyc
-.vscode
-.pytest_cache
-.idea
+.vscode/
+.pytest_cache/
+.idea/
