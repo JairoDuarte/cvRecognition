@@ -1,5 +1,10 @@
 {
     "python.pythonPath": "venv/bin/python",
+    "python.autoComplete.extraPaths": [
+        "venv/bin/python",
+        "venv/lib",
+        "./"
+    ],
     "code-runner.executorMap": {
         "javascript": "node",
         "java": "cd $dir && javac $fileName && java $fileNameWithoutExt",

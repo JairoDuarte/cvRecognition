@@ -12,6 +12,13 @@
             "console": "integratedTerminal"
         },
         {
+            "name": "Train",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/test/train.py",
+            "console": "integratedTerminal"
+        },
+        {
             "name": "Test1",
             "type": "python",
             "request": "launch",
