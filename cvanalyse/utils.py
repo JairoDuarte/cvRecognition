@@ -1,4 +1,6 @@
 import io
+import os
+import shutil
 
 import nltk
 from docx2txt import docx2txt
@@ -8,8 +10,9 @@ from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.pdfpage import PDFPage
 import re
 
-EMAIL_REGEX = r"[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}"
-PHONE_REGEX = r"\(?(\d{3})?\)?[\s\.-]{0,2}?(\d{3})[\s\.-]{0,2}(\d{4})"
+PHONE_REGEX = r'([+(]?\d{3,}[-\.\s]??\d{3,}[-\.\s]??\d{4}|\(\d{5}\)\s*\d{3}[-\.\s]??\d{5}|\d{3}[-\.\s]??\d{5})'
+
+    #r'([+(]?\d+[)\-]?[ \t\r\f\v]*[(]?\d{2,}[()\-]?[ \t\r\f\v]*\d{2,}[()\-]?[ \t\r\f\v]*\d*[ \t\r\f\v]*\d*[ \t\r\f\v]*)'
 
 class DataPreProcess():
     """
@@ -49,7 +52,7 @@ class DataPreProcess():
         content = content.replace('\n', ' ')
 
         return content
-            
+
 
 class Converter():
     
@@ -62,7 +65,10 @@ class Converter():
         """
         text = ''
         try:
-            text = docx2txt.process(filePath, "data/test/output")
+            os.makedirs('data/output')
+            text = docx2txt.process(filePath, 'data/output')
+
+            shutil.rmtree('data/output')
         except Exception as e:
             print(e)
             pass
@@ -93,3 +99,31 @@ class Converter():
         converter.close()
         output.close()
         return convertedPDF
+
+
+class Combinations():
+
+    def __init__(self, L):
+        self.n = len(L)
+        self.array = L
+        self.state = [0] * self.n
+        self.position = 0
+
+    def next(self):
+        if self.position == 0:
+            self.position += 1
+            return True
+        while self.position < self.n:
+            if self.state[self.position] < self.position:
+                index = 0 if self.position % 2 == 0 else self.state[self.position]
+                temp = self.array[self.position]
+                self.array[self.position] = self.array[index]
+                self.array[index] = temp
+                self.state[self.position] += 1
+                self.position = 1
+                return True
+            else:
+                self.state[self.position] = 0
+                self.position += 1
+        return False
+

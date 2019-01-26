@@ -1,7 +1,25 @@
+import json
+
 from cvanalyse.utils import Converter, DataPreProcess
 
 
 class Store():
+
+    @staticmethod
+    def saveCV(filePath,cv):
+        """
+        Stocke les informations du cv dans un fichier json
+        :param filePath:
+        :param cv:
+        :return:
+        """
+        try:
+            with open(filePath,'w') as file:
+                json.dump(cv,file)
+        except Exception as e:
+            print("{}".format(e))
+
+        return True
 
     @staticmethod
     def getCV(filePath):
@@ -13,6 +31,7 @@ class Store():
         """
 
         extension = filePath.split(".")[-1]
+        print("{}".format(filePath.split(".")[0]))
 
         if extension == 'txt':
             try:
