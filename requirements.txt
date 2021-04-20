@@ -18,7 +18,7 @@ pdfminer.six==20181108
 plac==0.9.6
 pluggy==0.8.1
 preshed==2.0.1
-py==1.7.0
+py==1.10.0
 pycryptodome==3.7.3
 pytest==4.1.1
 python-docx==0.8.10
